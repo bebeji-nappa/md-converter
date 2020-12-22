@@ -1,6 +1,15 @@
 # Md Converter
 This tool make Markdown syntax convert to HTML syntax.
 
+## [WARNING] Md Converter is finishing support at 2021/06.
+I'm Sorry, As we prepare for the release of **[RichMD.js](https://github.com/bebeji-nappa/richmdjs)** Major version, Md Converter is finishing support at 2021/06. 
+
+RichMD.js has not only basic Markdown support but also various functions is had by Original Syntax.
+
+We apologize for the inconvenience, but please migrate to RichMD.js .
+
+*This is wrote at 2020/12/22.*
+
 ## Installation
 
 ```bash
@@ -68,7 +77,3 @@ export default {
 - code block
 - checkbox list
 - table
-
-## Will be released Support syntax in the future 
-- Code block syntax highlight
-- Original Markdown syntax
